@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url=https://repo.github.io/public/public/index.html">
+<meta http-equiv="refresh" content="0; url=https://harsh246.github.io/chat-app/public/public/index.html">
