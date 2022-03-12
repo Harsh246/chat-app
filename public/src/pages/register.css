@@ -1,0 +1,76 @@
+
+ 
+ 
+  .box{
+    height: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    background-color: white ;
+  }
+  .box div .brand {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      justify-content: center;
+   }
+    div .brand img {
+        height: 5rem;
+      }
+      .box   h1 {
+        color: black;
+        text-transform: uppercase;
+      }
+    
+  
+      .box form {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 2rem;
+      background-color: white;
+      
+      padding: 5rem;
+      border: 3px solid #fdfffe;
+      min-width: 30vw;
+      
+    }
+    .box input {
+      background-color: transparent;
+      padding: 1rem;
+      border: 0.1rem solid #d7dbd7;
+      border-radius: 0.4rem;
+      color: black;
+      width: 100%;
+      font-size: 1rem;
+      
+    }
+    .box button {
+      background-color: #1DA1F2;
+      color: white;
+      padding: 1rem 2rem;
+      border: none;
+      font-weight: bold;
+      width:100%;
+      cursor: pointer;
+      border-radius: 0.4rem;
+      font-size: 1rem;
+      text-transform: uppercase;
+      
+    }
+    .box span {
+      color: white;
+      text-transform: uppercase;
+      
+      
+    }
+    .box  span a {
+        color: #1DA1F2;
+        text-decoration: none;
+        font-weight: bold;
+        justify-content: center;
+      }
